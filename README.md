@@ -33,5 +33,3 @@ After completing the assignment, each group will give a presentation (8 minutes 
 [3] https://surfdrive.surf.nl/files/index.php/s/DoJTJsawx5Po819
 
 [4] https://www.utwente.nl/en/service-portal/services/lisa/resources/files/library-public/author-dataset-readmetemplate.txt
-
-## what do I need to present?
