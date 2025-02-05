@@ -20,7 +20,7 @@ After completing the assignment, each group will give a presentation (8 minutes 
 - Demonstrate how your group coordinated tasks using Git. Highlight aspects like branching, commits, and merging workflows if possible.
 - Reflect on what your group has learned from working with the data and Git collaboratively. Discuss how these skills can be applied to your DC project.
 
-# Preparation checklist
+## Preparation checklist
 - Make sure your internet connection is smooth
 - Install Git on your computer (page 5 of [1])
 - Create your Github account
@@ -33,3 +33,5 @@ After completing the assignment, each group will give a presentation (8 minutes 
 [3] https://surfdrive.surf.nl/files/index.php/s/DoJTJsawx5Po819
 
 [4] https://www.utwente.nl/en/service-portal/services/lisa/resources/files/library-public/author-dataset-readmetemplate.txt
+
+## what do I need to present?
