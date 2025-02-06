@@ -1,0 +1,93 @@
+This DATSETNAMEreadme.txt file was generated on YYYYMMDD by NAME
+
+-------------------
+GENERAL INFORMATION
+-------------------
+
+Title of Dataset: Do embedded volcanoclastic layers serve as potential glide planes? – An integrated analysis from the Gela Basin offshore southern Sicily
+
+Author Information (Name, Institution, Address, Email)
+
+	Principal Investigator: J. Kuhlmann, MARUM – Center for Marine Environmental Sciences and Faculty of Geosciences, University of Bremen, Leobener Str., D-28359 Bremen, Germany, jkuhlmann@marum.de
+	Associate or Co-investigator: K. Huhn, MARUM – Center for Marine Environmental Sciences and Faculty of Geosciences, University of Bremen; M.J. Ikari, MARUM – Center for Marine Environmental Sciences and Faculty of Geosciences, University of Bremen
+	Alternate Contact(s): (Not specified in the document)
+
+Date of data collection (single date, range, approximate date): <20100301 – 20100331>
+
+Geographic location of data collection: <NE Gela Basin, Strait of Sicily, Mediterranean Sea
+Drill site: GeoB14403 (approx. 28.2 meters below seafloor)> 
+
+Information about funding sources or sponsorship that supported the collection of the data:
+This work was funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) through MARUM – University of Bremen.
+
+--------------------------
+SHARING/ACCESS INFORMATION
+-------------------------- 
+
+Licenses/restrictions placed on the data, or limitations of reuse:
+Not specified in the document. Please contact the corresponding author for data access and reuse permissions.
+
+Recommended citation for the data:
+Kuhlmann, J., Huhn, K., & Ikari, M. J. (2016). Do embedded volcanoclastic layers serve as potential glide planes? – An integrated analysis from the Gela Basin offshore southern Sicily. 7th International Symposium on Submarine Mass Movements and Their Consequences.
+
+Citation for and links to publications that cite or use the data:
+Kuhlmann, J., Asioli, A., & Strasser, M., et al. (2014). Integrated stratigraphic and morphological investigation of the Twin Slide complex offshore southern Sicily. In: Krastel, S., Behrmann, J.-H., & Völker, D. (Eds.), Submarine Mass Movements and their Consequences, Springer, Heidelberg, pp. 583-594. [DOI: 10.1007/978-3-319-00972-8_49]
+
+Kuhlmann, J., Asioli, A., Trincardi, F., et al. (2015). Sedimentary response to Milankovitch-type climatic oscillations and formation of sediment undulations: evidence from a shallow-shelf setting at Gela Basin on the Sicilian continental margin. Quaternary Science Reviews, 108, 107-121. [DOI: 10.1016/j.quascirev.2014.10.030]
+
+Links to other publicly accessible locations of the data:
+(Not specified in the document. The dataset may be available upon request from the authors.)
+
+Links/relationships to ancillary or related data sets:
+The data is related to sediment core analysis from the RV Maria S. Merian cruise MSM15/3 (2010) and geochemical investigations on marine marker tephra Y-7. Additional data may be available in MARUM research archives.
+
+--------------------
+DATA & FILE OVERVIEW
+--------------------
+File list (filenames, directory structure (for zipped files) and brief description of all data files):
+(Not specified in the document. Data files likely include CT scan images, direct shear test results, and geochemical analysis data from the GeoB14403 core samples.)
+
+Relationship between files, if important for context:
+The dataset consists of multiple data types, including CT scan images, direct-shear experiment results, petrophysical measurements, and geochemical logs. These data are complementary, providing an integrated analysis of the mechanical and structural properties of the volcanoclastic layer and surrounding sediments.
+
+Additional related data collected that was not included in the current data package:
+Additional geophysical and sedimentological data from RV Maria S. Merian cruise MSM15/3, including multibeam bathymetry, Parasound profiles, and sediment cores, may exist but are not explicitly included in this dataset.
+
+If data was derived from another source, list source:
+This dataset is based on original core samples obtained from site GeoB14403 during RV Maria S. Merian cruise MSM15/3 (2010). Some background references include previous studies on the Gela Basin (e.g., Minisini et al., 2007; Kuhlmann et al., 2014, 2015).
+
+If there are multiple versions of the dataset, list the file updated, when and why update was made:
+(Not specified in the document. No mention of dataset revisions or updates.)
+
+--------------------------
+METHODOLOGICAL INFORMATION
+--------------------------
+
+Description of methods used for collection/generation of data: <Include links or references to publications or other documentation containing experimental design or protocols used in data collection>
+
+Methods for processing the data: <describe how the submitted data were generated from the raw or collected data>
+
+Software- or Instrument-specific information needed to interpret the data, including software and hardware version numbers:
+
+Standards and calibration information, if appropriate:
+
+Environmental/experimental conditions:
+
+Describe any quality-assurance procedures performed on the data:
+
+People involved with sample collection, processing, analysis and/or submission:
+
+
+--------------------------
+DATA-SPECIFIC INFORMATION <Create sections for each datafile or set, as appropriate>
+--------------------------
+
+Number of variables:
+
+Number of cases/rows: 
+
+Variable list, defining any abbreviations, units of measure, codes or symbols used:
+   
+Missing data codes:
+
+Specialized formats or other abbreviations used:
