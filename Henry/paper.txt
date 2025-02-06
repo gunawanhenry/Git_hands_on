@@ -25,15 +25,21 @@ SHARING/ACCESS INFORMATION
 -------------------------- 
 
 Licenses/restrictions placed on the data, or limitations of reuse:
+Not specified in the document. Please contact the corresponding author for data access and reuse permissions.
 
 Recommended citation for the data:
+Kuhlmann, J., Huhn, K., & Ikari, M. J. (2016). Do embedded volcanoclastic layers serve as potential glide planes? – An integrated analysis from the Gela Basin offshore southern Sicily. 7th International Symposium on Submarine Mass Movements and Their Consequences.
 
 Citation for and links to publications that cite or use the data:
+Kuhlmann, J., Asioli, A., & Strasser, M., et al. (2014). Integrated stratigraphic and morphological investigation of the Twin Slide complex offshore southern Sicily. In: Krastel, S., Behrmann, J.-H., & Völker, D. (Eds.), Submarine Mass Movements and their Consequences, Springer, Heidelberg, pp. 583-594. [DOI: 10.1007/978-3-319-00972-8_49]
+
+Kuhlmann, J., Asioli, A., Trincardi, F., et al. (2015). Sedimentary response to Milankovitch-type climatic oscillations and formation of sediment undulations: evidence from a shallow-shelf setting at Gela Basin on the Sicilian continental margin. Quaternary Science Reviews, 108, 107-121. [DOI: 10.1016/j.quascirev.2014.10.030]
 
 Links to other publicly accessible locations of the data:
+(Not specified in the document. The dataset may be available upon request from the authors.)
 
-Links/relationships to ancillary or related data sets: 
-
+Links/relationships to ancillary or related data sets:
+The data is related to sediment core analysis from the RV Maria S. Merian cruise MSM15/3 (2010) and geochemical investigations on marine marker tephra Y-7. Additional data may be available in MARUM research archives.
 
 --------------------
 DATA & FILE OVERVIEW
