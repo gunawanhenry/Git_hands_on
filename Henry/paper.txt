@@ -44,17 +44,20 @@ The data is related to sediment core analysis from the RV Maria S. Merian cruise
 --------------------
 DATA & FILE OVERVIEW
 --------------------
-
 File list (filenames, directory structure (for zipped files) and brief description of all data files):
+(Not specified in the document. Data files likely include CT scan images, direct shear test results, and geochemical analysis data from the GeoB14403 core samples.)
 
-Relationship between files, if important for context:  
+Relationship between files, if important for context:
+The dataset consists of multiple data types, including CT scan images, direct-shear experiment results, petrophysical measurements, and geochemical logs. These data are complementary, providing an integrated analysis of the mechanical and structural properties of the volcanoclastic layer and surrounding sediments.
 
 Additional related data collected that was not included in the current data package:
+Additional geophysical and sedimentological data from RV Maria S. Merian cruise MSM15/3, including multibeam bathymetry, Parasound profiles, and sediment cores, may exist but are not explicitly included in this dataset.
 
 If data was derived from another source, list source:
+This dataset is based on original core samples obtained from site GeoB14403 during RV Maria S. Merian cruise MSM15/3 (2010). Some background references include previous studies on the Gela Basin (e.g., Minisini et al., 2007; Kuhlmann et al., 2014, 2015).
 
-If there are there multiple versions of the dataset, list the file updated, when and why update was made:
-
+If there are multiple versions of the dataset, list the file updated, when and why update was made:
+(Not specified in the document. No mention of dataset revisions or updates.)
 
 --------------------------
 METHODOLOGICAL INFORMATION
