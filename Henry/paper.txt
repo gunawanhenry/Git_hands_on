@@ -62,20 +62,45 @@ If there are multiple versions of the dataset, list the file updated, when and w
 --------------------------
 METHODOLOGICAL INFORMATION
 --------------------------
+**Description of methods used for collection/generation of data:**  
+Sediment core samples were collected from site **GeoB14403** in the **Gela Basin, Strait of Sicily**, during the *RV Maria S. Merian* cruise **MSM15/3** in **March 2010** using the **Bremen seafloor drill rig MeBo** (Freudenthal & Wefer, 2007, 2013).  
+- Acoustic data was obtained using a **parametric sediment echosounder (Atlas Parasound, 4 kHz)** and **multibeam echosounders (Kongsberg Simrad EM120 and EM1002, operating at 12 kHz and 95 kHz, respectively).**  
+- Core-physical properties were measured using a **GEOTEK Ltd. Multi-Sensor Core Logger (MSCL).**  
+- Geochemical composition (Al to Fe) was analyzed using an **Avaatech II core scanner** at 10 kV, 0.2 mA, and a sampling time of 20 s.  
 
-Description of methods used for collection/generation of data: <Include links or references to publications or other documentation containing experimental design or protocols used in data collection>
+References:  
+- Kuhlmann et al. (2014). *Integrated stratigraphic and morphological investigation of the Twin Slide complex offshore southern Sicily.* In: Krastel et al. (Eds.), *Submarine Mass Movements and their Consequences*, Springer, Heidelberg, pp. 583-594.  
+- Freudenthal & Wefer (2007). *Scientific drilling with the sea floor drill rig MeBo.* DOI: 10.5194/sd-5-63-2007.  
 
-Methods for processing the data: <describe how the submitted data were generated from the raw or collected data>
+**Methods for processing the data:**  
+- **CT scanning:** A **Toshiba Aquilion 64 computer tomograph** was used at **Klinikum Bremen-Mitte** to obtain 3D structural imaging of the cores at **120 kV, 600 mA, and 0.35 mm x-y resolution with 0.5 mm z resolution.**  
+- **Direct-shear experiments:** Conducted on cylindrical WR samples (**56 mm diameter, ~25 mm height**) using a **GIESA RS5 device**, under a **constant effective normal stress of 192 kPa** to match in situ conditions.  
+- **Geochemical and petrophysical analysis:** XRF scanning and density measurements were performed to identify material transitions and mesoporosity in sediment layers.  
 
-Software- or Instrument-specific information needed to interpret the data, including software and hardware version numbers:
+**Software- or Instrument-specific information needed to interpret the data, including software and hardware version numbers:**  
+- **CT scan data** requires medical imaging software supporting **DICOM format**, e.g., **OsiriX, ImageJ, or Avizo.**  
+- **Shear test data** is recorded and analyzed using software compatible with the **GIESA RS5** system.  
+- **Geochemical data** processed with **Avaatech II core scanner software**.  
 
-Standards and calibration information, if appropriate:
+**Standards and calibration information, if appropriate:**  
+- **Shear tests followed** DIN 18137-3 standards (*Direct shear test for soil investigation and testing*).  
+- **XRF calibration based on** internal standardization for elements **Al to Fe**.  
+- **CT scan calibration performed using** Hounsfield units (HU) for sediment density analysis.  
 
-Environmental/experimental conditions:
+**Environmental/experimental conditions:**  
+- **Sediment samples were collected from ~28.2 meters below the seafloor** under **submarine slope stability conditions.**  
+- **Shear tests were conducted under drained conditions**, simulating in situ stress levels.  
+- **CT scan analysis performed under controlled laboratory conditions** at Klinikum Bremen-Mitte.  
 
-Describe any quality-assurance procedures performed on the data:
+**Describe any quality-assurance procedures performed on the data:**  
+- **Duplicate XRF and density measurements** were taken to ensure accuracy.  
+- **CT scans were cross-validated with sedimentological observations** to confirm internal structures.  
+- **Direct-shear experiments followed standardized protocols (DIN 18137-3).**  
 
-People involved with sample collection, processing, analysis and/or submission:
+**People involved with sample collection, processing, analysis, and/or submission:**  
+- **Sample collection:** J. Kuhlmann, K. Huhn, M.J. Ikari (MARUM – University of Bremen).  
+- **Processing and analysis:** J. Kuhlmann (CT scans, geochemical analysis), G. Wiemer (shear box experiments), J. Titschack (CT data support).  
+- **Submission and dataset curation:** J. Kuhlmann (Corresponding author: jkuhlmann@marum.de).  
 
 
 --------------------------
