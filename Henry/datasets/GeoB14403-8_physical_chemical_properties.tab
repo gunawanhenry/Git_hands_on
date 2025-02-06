@@ -1,0 +1,115 @@
+/* DATA DESCRIPTION:
+Citation:	Kuhlmann, Jannis; Huhn, Katrin; Ikari, Matt J (2016): Physical and chemical properties of sediment core GeoB14403-8 [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.868449, 
+	In supplement to: Kuhlmann, J et al. (2016): Do embedded volcanoclastic layers serve as potential glide planes? - An integrated analysis from the Gela Basin offshore southern Sicily. In: Lamarche et al. (eds.) Submarine Mass Movements and Their Consequences. Springer, Heidelberg, 41, 273-280, https://doi.org/10.1007/978-3-319-20979-1_27
+Project(s):	Center for Marine Environmental Sciences (MARUM) (URI: https://www.marum.de/en/)
+Coverage:	MEDIAN LATITUDE: 36.856745 * MEDIAN LONGITUDE: 14.231745 * SOUTH-BOUND LATITUDE: 36.856660 * WEST-BOUND LONGITUDE: 14.231660 * NORTH-BOUND LATITUDE: 36.856830 * EAST-BOUND LONGITUDE: 14.231830
+	DATE/TIME START: 2010-06-30T03:16:00 * DATE/TIME END: 2010-07-01T12:53:00
+	MINIMUM DEPTH, sediment/rock: 27.77 m * MAXIMUM DEPTH, sediment/rock: 29.00 m
+Event(s):	MSM15/3_617-1 (GeoB14403-8) * LATITUDE START: 36.856830 * LONGITUDE START: 14.231830 * LATITUDE END: 36.856660 * LONGITUDE END: 14.231660 * DATE/TIME START: 2010-06-30T03:16:00 * DATE/TIME END: 2010-07-01T12:53:00 * ELEVATION START: -185.7 m * ELEVATION END: -182.0 m * CAMPAIGN: MSM15/3 (URI: https://doi.org/10.2312/cr_msm15_3) * BASIS: Maria S. Merian (URI: https://en.wikipedia.org/wiki/RV_Maria_S._Merian) * METHOD/DEVICE: MeBo (Meeresboden-Bohrgerät) (MeBo)
+Parameter(s):	DEPTH, sediment/rock [m] (Depth sed) * GEOCODE * PI: Kuhlmann, Jannis (https://orcid.org/0000-0003-0618-0754, jkuhlmann@marum.de)
+	Density [g/cm**3] (Density) * PI: Kuhlmann, Jannis (https://orcid.org/0000-0003-0618-0754, jkuhlmann@marum.de) * COMMENT: bulk density (MAD), rMAD
+	Density [g/cm**3] (Density) * PI: Kuhlmann, Jannis (https://orcid.org/0000-0003-0618-0754, jkuhlmann@marum.de) * COMMENT: bulk density (MSCL), rcorr
+	Calcium/Titanium ratio (Ca/Ti) * PI: Kuhlmann, Jannis (https://orcid.org/0000-0003-0618-0754, jkuhlmann@marum.de) * COMMENT: log (Ca/Ti)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0) (URI: https://creativecommons.org/licenses/by/3.0/)
+Size:	107 data points
+*/
+Depth sed [m]	Density [g/cm**3] (bulk density (MAD), rMAD)	Density [g/cm**3] (bulk density (MSCL), rcorr)	Ca/Ti (log (Ca/Ti))
+27.77			1.1062
+27.78		1.6860	
+27.79			1.1083
+27.80		1.5887	
+27.81			1.0847
+27.82		1.6405	
+27.83			1.1008
+27.84		1.6712	
+27.85			1.0313
+27.86		1.6561	
+27.87			1.0745
+27.88		1.6970	
+27.89			1.0951
+27.90		1.6578	
+27.91			1.0600
+27.92		1.7204	
+27.93			1.0859
+27.94		1.6814	
+27.95			1.0481
+27.96		1.6773	
+27.97			1.0789
+27.98		1.6391	
+27.99			1.0431
+28.00		1.6522	
+28.01			1.0600
+28.02		1.6993	
+28.03			1.0937
+28.04		1.7302	
+28.05			1.0814
+28.06		1.7298	
+28.07			1.0531
+28.08		1.6848	
+28.09			1.0840
+28.10		1.6863	
+28.11			1.0769
+28.12	1.642	1.6783	
+28.13			1.0344
+28.14		1.7722	
+28.15			1.0706
+28.41		1.4006	1.0165
+28.42			0.9936
+28.43		1.5951	0.9704
+28.44			1.0256
+28.45		1.6519	1.0659
+28.46			1.0480
+28.47		1.5383	1.0725
+28.48			1.0169
+28.49		1.7019	1.0552
+28.50			1.0254
+28.51		1.6982	
+28.52			1.0686
+28.53		1.6748	
+28.54			1.0705
+28.55		1.6627	
+28.56			1.0692
+28.57		1.6844	
+28.58			1.0244
+28.59		1.6931	
+28.60			1.0996
+28.61		1.7060	
+28.62			1.0784
+28.63		1.6615	
+28.64			1.0687
+28.65		1.7002	
+28.66			1.1061
+28.67		1.6760	
+28.68			1.1206
+28.69		1.6925	
+28.70			1.1232
+28.71		1.7276	
+28.72	1.681		1.1270
+28.73		1.7424	
+28.74			1.1404
+28.75		1.7397	
+28.76			1.1128
+28.77		1.6839	
+28.78			1.1128
+28.79		1.7058	
+28.80			1.1298
+28.81		1.7049	
+28.82			1.0939
+28.83		1.6999	
+28.84			1.1347
+28.85		1.7591	
+28.86			1.1269
+28.87		1.7156	
+28.88			1.1150
+28.89		1.7659	
+28.90			1.1391
+28.91		1.7475	
+28.92			1.0956
+28.93		1.7533	
+28.94			1.1029
+28.95		1.7193	
+28.96			1.1039
+28.97	1.709	1.7428	
+28.98			1.1113
+28.99		1.7337	
+29.00			1.1141
