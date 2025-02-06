@@ -107,12 +107,35 @@ References:
 DATA-SPECIFIC INFORMATION <Create sections for each datafile or set, as appropriate>
 --------------------------
 
-Number of variables:
+**Number of variables:**  
+The dataset includes multiple variables related to sediment properties, geochemical composition, and mechanical behavior. Key variables include:  
+- **Shear strength (τ, kPa)**  
+- **Effective normal stress (σ′ₙ, kPa)**  
+- **Apparent coefficient of friction (μₐ, dimensionless)**  
+- **Radiodensity (HU, Hounsfield units)**  
+- **Mesoporosity (%, volume fraction of fractures)**  
+- **Bulk density (g/cm³)**  
+- **Geochemical composition (elemental concentrations, e.g., Ca/Ti ratio)**  
 
-Number of cases/rows: 
+**Number of cases/rows:**  
+- **CT scan data:** High-resolution 3D imaging with a vertical resolution of **0.3 mm per slice**.  
+- **Direct-shear experiments:** **Three test cases (DS I, DS II, DS III)** corresponding to different sediment domains.  
+- **Geochemical data:** Multi-sensor and XRF core scanning across **54.6 meters of core material**.  
 
-Variable list, defining any abbreviations, units of measure, codes or symbols used:
-   
-Missing data codes:
+**Variable list, defining any abbreviations, units of measure, codes, or symbols used:**  
+- **τ (Shear strength), kPa**  
+- **σ′ₙ (Effective normal stress), kPa**  
+- **μₐ (Apparent coefficient of friction), dimensionless**  
+- **HU (Hounsfield units), unitless measure of radiodensity**  
+- **% Mesoporosity (fraction of void space due to fractures)**  
+- **Bulk density (g/cm³)**  
+- **Ca/Ti ratio (unitless geochemical indicator of material composition)**  
 
-Specialized formats or other abbreviations used:
+**Missing data codes:**  
+- Not explicitly mentioned in the document. If missing values exist, they may be represented as **"NaN" or blank cells** in the dataset.  
+
+**Specialized formats or other abbreviations used:**  
+- **CT scan data** may be stored in **DICOM format**.  
+- **Shear test data** may be recorded in **CSV or proprietary GIESA RS5 format**.  
+- **Geochemical and petrophysical data** stored in **XRF and MSCL formats**.  
+- **DIN 18137-3** standard followed for shear strength testing.
